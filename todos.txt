@@ -1,9 +1,7 @@
 Today I am mastering programming
-Ist this working, maybe
-Keep programming keep improving
-Hopefully we get a new line
-Finally, it is working correctly
 Mastering Python for Data Science
 Mastering Data Science
-Creating web app to be hosted in the cloud
 List of Things to do today
+Testing functionality
+Did my new functionality work to clear what is in this box
+Data Science Mastery
